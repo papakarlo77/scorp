@@ -1,0 +1,27 @@
+{
+  "name": "scorp",
+  "description": "template for S-Corp.ru",
+  "license": "ISC",
+  "authors": [
+    "papakarlo77 <gku77@ya.ru>"
+  ],
+  "main": "",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#^4.7.0",
+    "slick-carousel": "^1.6.0",
+    "jQuery.mmenu": "^6.1.2",
+    "equalheights": "equalHeights#*",
+    "magnific-popup": "^1.1.0",
+    "bootstrap": "^3.3.7",
+    "css-hamburgers": "^0.9.1"
+  }
+}
